@@ -1,0 +1,54 @@
+Unnamed: 0: 56
+subject_id_x: 10393792
+image_path: cxr-image-analysis/files/p10/p10393792/s51272583/026580bd-22c6dcb8-5bcec043-bb56a3ef-8ed180a7.jpg
+dicom: 026580bd-22c6dcb8-5bcec043-bb56a3ef-8ed180a7
+study_id: 51272583
+subject_id_y: 10393792
+hadm_id: 20977284
+Label_0_Logit: -2.6902997
+Label_0_Prob: 0.06354818
+Label_0: 0.0
+Label_1_Logit: -1.7062746
+Label_1_Prob: 0.15364754
+Label_1: 0.0
+Label_2_Logit: -4.216082
+Label_2_Prob: 0.014541761
+Label_2: 0.0
+Label_3_Logit: -0.5303296
+Label_3_Prob: 0.37044
+Label_3: 0.0
+Label_4_Logit: 0.7923793
+Label_4_Prob: 0.68834203
+Label_4: 0.0
+Label_5_Logit: -0.9897271
+Label_5_Prob: 0.27096596
+Label_5: 1.0
+Correct_0: True
+Correct_1: True
+Correct_2: True
+Correct_3: True
+Correct_4: False
+Correct_5: False
+Total_Label: 1.0
+Total_Correct: 4
+gender: F
+admission_type_mapped: Emergency
+admission_type: EW EMER.
+race: ASIAN - SOUTH EAST ASIAN
+discharge_location: HOME HEALTH CARE
+insurance: Other
+language: ENGLISH
+race_mapped: Asian
+ViewPosition: PA
+anchor_age: 41
+hospital_expire_flag: 0
+AcquisitionDate: 21261201.0
+DetectorTemperature: 30.1
+ExposureTime: 11.0
+XRayTubeCurrent: 200.0
+Exposure: 2.0
+ExposureInuAs: 2240.0
+weight_kg: nan
+height_cm: nan
+bmi: nan
+model_grad_eval: j_CNN_Label_5_convnext_base.fb_in22k_ft_in1k_epoch=6_valid_loss=0.4770.ckpt

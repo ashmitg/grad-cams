@@ -1,0 +1,54 @@
+Unnamed: 0: 129
+subject_id_x: 10213765
+image_path: cxr-image-analysis/files/p10/p10213765/s55007145/8d79eeef-93ac872e-c6c63498-a0e79dae-7fc4975b.jpg
+dicom: 8d79eeef-93ac872e-c6c63498-a0e79dae-7fc4975b
+study_id: 55007145
+subject_id_y: 10213765
+hadm_id: 28522861
+Label_0_Logit: 1.0545697
+Label_0_Prob: 0.7416514
+Label_0: 1.0
+Label_1_Logit: -1.4438974
+Label_1_Prob: 0.19094253
+Label_1: 0.0
+Label_2_Logit: -1.557556
+Label_2_Prob: 0.17399761
+Label_2: 0.0
+Label_3_Logit: 0.25711992
+Label_3_Prob: 0.5639282
+Label_3: 0.0
+Label_4_Logit: 1.9091407
+Label_4_Prob: 0.8709226
+Label_4: 1.0
+Label_5_Logit: -1.4014457
+Label_5_Prob: 0.19758679
+Label_5: 0.0
+Correct_0: True
+Correct_1: True
+Correct_2: True
+Correct_3: False
+Correct_4: True
+Correct_5: True
+Total_Label: 2.0
+Total_Correct: 5
+gender: M
+admission_type_mapped: Emergency
+admission_type: EW EMER.
+race: HISPANIC/LATINO - GUATEMALAN
+discharge_location: HOME
+insurance: Other
+language: ?
+race_mapped: Hispanic or Latino
+ViewPosition: AP
+anchor_age: 20
+hospital_expire_flag: 0
+AcquisitionDate: 21130411.0
+DetectorTemperature: 33.0
+ExposureTime: 7.0
+XRayTubeCurrent: 320.0
+Exposure: 2.0
+ExposureInuAs: 2200.0
+weight_kg: nan
+height_cm: nan
+bmi: nan
+model_grad_eval: j_CNN_Label_0_convnext_base.fb_in22k_ft_in1k_epoch=2_valid_loss=0.4627.ckpt

@@ -1,0 +1,54 @@
+Unnamed: 0: 205
+subject_id_x: 15656471
+image_path: cxr-image-analysis/files/p15/p15656471/s51121997/a7a942a4-e875dc07-a2b22a7b-2f399efe-a5564c6b.jpg
+dicom: a7a942a4-e875dc07-a2b22a7b-2f399efe-a5564c6b
+study_id: 51121997
+subject_id_y: 15656471
+hadm_id: 23460201
+Label_0_Logit: -0.63380045
+Label_0_Prob: 0.3466493
+Label_0: 0.0
+Label_1_Logit: -3.0012188
+Label_1_Prob: 0.047370844
+Label_1: 0.0
+Label_2_Logit: -3.3583975
+Label_2_Prob: 0.03362125
+Label_2: 0.0
+Label_3_Logit: 0.6517097
+Label_3_Prob: 0.6573956
+Label_3: 0.0
+Label_4_Logit: -2.1478984
+Label_4_Prob: 0.10452777
+Label_4: 0.0
+Label_5_Logit: 0.5489688
+Label_5_Prob: 0.6338963
+Label_5: 1.0
+Correct_0: True
+Correct_1: True
+Correct_2: True
+Correct_3: False
+Correct_4: True
+Correct_5: True
+Total_Label: 1.0
+Total_Correct: 5
+gender: F
+admission_type_mapped: Surgical
+admission_type: SURGICAL SAME DAY ADMISSION
+race: MULTIPLE RACE/ETHNICITY
+discharge_location: HOME
+insurance: Other
+language: ENGLISH
+race_mapped: Multiple Race/Ethnicity
+ViewPosition: LL
+anchor_age: 47
+hospital_expire_flag: 0
+AcquisitionDate: 21900201.0
+DetectorTemperature: 28.733789
+ExposureTime: 20.0
+XRayTubeCurrent: 386.0
+Exposure: 8.0
+ExposureInuAs: 7766.0
+weight_kg: nan
+height_cm: nan
+bmi: nan
+model_grad_eval: j_CNN_Label_5_convnext_base.fb_in22k_ft_in1k_epoch=6_valid_loss=0.4770.ckpt

@@ -1,0 +1,54 @@
+Unnamed: 0: 81
+subject_id_x: 12026649
+image_path: cxr-image-analysis/files/p12/p12026649/s51379090/2ec7e775-f07468dd-fdff9ee8-a2952d3d-9b04dbea.jpg
+dicom: 2ec7e775-f07468dd-fdff9ee8-a2952d3d-9b04dbea
+study_id: 51379090
+subject_id_y: 12026649
+hadm_id: 23362995
+Label_0_Logit: -1.660892
+Label_0_Prob: 0.1596423
+Label_0: 0.0
+Label_1_Logit: -5.5847106
+Label_1_Prob: 0.00374079
+Label_1: 0.0
+Label_2_Logit: -2.7182279
+Label_2_Prob: 0.0619063
+Label_2: 0.0
+Label_3_Logit: -0.5881267
+Label_3_Prob: 0.35706478
+Label_3: 0.0
+Label_4_Logit: -1.9964021
+Label_4_Prob: 0.1195812
+Label_4: 0.0
+Label_5_Logit: 1.4983759
+Label_5_Prob: 0.8173321
+Label_5: 1.0
+Correct_0: True
+Correct_1: True
+Correct_2: True
+Correct_3: True
+Correct_4: True
+Correct_5: True
+Total_Label: 1.0
+Total_Correct: 6
+gender: F
+admission_type_mapped: Emergency
+admission_type: EW EMER.
+race: HISPANIC/LATINO - DOMINICAN
+discharge_location: HOME
+insurance: Other
+language: ?
+race_mapped: Hispanic or Latino
+ViewPosition: PA
+anchor_age: 52
+hospital_expire_flag: 0
+AcquisitionDate: 21390616.0
+DetectorTemperature: 27.0
+ExposureTime: 29.0
+XRayTubeCurrent: 125.0
+Exposure: 4.0
+ExposureInuAs: 3600.0
+weight_kg: 196.5
+height_cm: 60.0
+bmi: 545.83
+model_grad_eval: j_CNN_Label_5_convnext_base.fb_in22k_ft_in1k_epoch=6_valid_loss=0.4770.ckpt

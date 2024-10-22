@@ -1,0 +1,54 @@
+Unnamed: 0: 189
+subject_id_x: 16863735
+image_path: cxr-image-analysis/files/p16/p16863735/s53587401/4d1c6959-7047f1d6-c2642126-128e34a0-52543c3b.jpg
+dicom: 4d1c6959-7047f1d6-c2642126-128e34a0-52543c3b
+study_id: 53587401
+subject_id_y: 16863735
+hadm_id: 22258831
+Label_0_Logit: -1.7772832
+Label_0_Prob: 0.14463893
+Label_0: 0.0
+Label_1_Logit: -2.1326208
+Label_1_Prob: 0.10596644
+Label_1: 0.0
+Label_2_Logit: -1.8765181
+Label_2_Prob: 0.13278931
+Label_2: 0.0
+Label_3_Logit: 1.5717647
+Label_3_Prob: 0.82803506
+Label_3: 0.0
+Label_4_Logit: -0.32978016
+Label_4_Prob: 0.41829413
+Label_4: 0.0
+Label_5_Logit: 0.6124049
+Label_5_Prob: 0.6484892
+Label_5: 1.0
+Correct_0: True
+Correct_1: True
+Correct_2: True
+Correct_3: False
+Correct_4: True
+Correct_5: True
+Total_Label: 1.0
+Total_Correct: 5
+gender: F
+admission_type_mapped: Emergency
+admission_type: EW EMER.
+race: BLACK/AFRICAN AMERICAN
+discharge_location: HOME
+insurance: Other
+language: ENGLISH
+race_mapped: Black or African American
+ViewPosition: AP
+anchor_age: 88
+hospital_expire_flag: 0
+AcquisitionDate: 21450404.0
+DetectorTemperature: 27.0
+ExposureTime: 10.0
+XRayTubeCurrent: 400.0
+Exposure: 4.0
+ExposureInuAs: 4000.0
+weight_kg: nan
+height_cm: nan
+bmi: nan
+model_grad_eval: j_CNN_Label_5_convnext_base.fb_in22k_ft_in1k_epoch=6_valid_loss=0.4770.ckpt

@@ -1,0 +1,54 @@
+Unnamed: 0: 5
+subject_id_x: 15264766
+image_path: cxr-image-analysis/files/p15/p15264766/s50728358/a474a494-e3333883-c08d414e-33a98c14-fb4edc38.jpg
+dicom: a474a494-e3333883-c08d414e-33a98c14-fb4edc38
+study_id: 50728358
+subject_id_y: 15264766
+hadm_id: 26407869
+Label_0_Logit: 0.5439407
+Label_0_Prob: 0.6327287
+Label_0: 1.0
+Label_1_Logit: 0.974512
+Label_1_Prob: 0.7260179
+Label_1: 1.0
+Label_2_Logit: 2.9329562
+Label_2_Prob: 0.9494517
+Label_2: 1.0
+Label_3_Logit: -1.0881265
+Label_3_Prob: 0.25197122
+Label_3: 0.0
+Label_4_Logit: 0.6985972
+Label_4_Prob: 0.66787666
+Label_4: 0.0
+Label_5_Logit: -2.5912778
+Label_5_Prob: 0.06970187
+Label_5: 0.0
+Correct_0: True
+Correct_1: True
+Correct_2: True
+Correct_3: True
+Correct_4: False
+Correct_5: True
+Total_Label: 3.0
+Total_Correct: 5
+gender: F
+admission_type_mapped: Emergency
+admission_type: EW EMER.
+race: BLACK/AFRICAN AMERICAN
+discharge_location: SKILLED NURSING FACILITY
+insurance: Other
+language: ENGLISH
+race_mapped: Black or African American
+ViewPosition: AP
+anchor_age: 89
+hospital_expire_flag: 0
+AcquisitionDate: 21840628.0
+DetectorTemperature: 32.0
+ExposureTime: 13.0
+XRayTubeCurrent: 320.0
+Exposure: 4.0
+ExposureInuAs: 4100.0
+weight_kg: nan
+height_cm: nan
+bmi: nan
+model_grad_eval: j_CNN_Label_0_convnext_base.fb_in22k_ft_in1k_epoch=2_valid_loss=0.4627.ckpt

@@ -1,0 +1,54 @@
+Unnamed: 0: 40
+subject_id_x: 14179538
+image_path: cxr-image-analysis/files/p14/p14179538/s56741961/398b02f5-0af2db49-dd56629a-c9d996b6-34b6dbc7.jpg
+dicom: 398b02f5-0af2db49-dd56629a-c9d996b6-34b6dbc7
+study_id: 56741961
+subject_id_y: 14179538
+hadm_id: 23833749
+Label_0_Logit: 1.3845904
+Label_0_Prob: 0.79972726
+Label_0: 0.0
+Label_1_Logit: -3.4943633
+Label_1_Prob: 0.02947304
+Label_1: 0.0
+Label_2_Logit: -1.6506901
+Label_2_Prob: 0.1610157
+Label_2: 0.0
+Label_3_Logit: 0.42041495
+Label_3_Prob: 0.6035825
+Label_3: 0.0
+Label_4_Logit: -1.1149237
+Label_4_Prob: 0.2469541
+Label_4: 0.0
+Label_5_Logit: 0.76370764
+Label_5_Prob: 0.6821582
+Label_5: 1.0
+Correct_0: False
+Correct_1: True
+Correct_2: True
+Correct_3: False
+Correct_4: True
+Correct_5: True
+Total_Label: 1.0
+Total_Correct: 4
+gender: F
+admission_type_mapped: Emergency
+admission_type: EW EMER.
+race: BLACK/CAPE VERDEAN
+discharge_location: HOME HEALTH CARE
+insurance: Other
+language: ?
+race_mapped: Black or African American
+ViewPosition: LATERAL
+anchor_age: 62
+hospital_expire_flag: 0
+AcquisitionDate: 21890424.0
+DetectorTemperature: 29.0
+ExposureTime: 42.0
+XRayTubeCurrent: 400.0
+Exposure: 17.0
+ExposureInuAs: 16800.0
+weight_kg: nan
+height_cm: nan
+bmi: nan
+model_grad_eval: j_CNN_Label_5_convnext_base.fb_in22k_ft_in1k_epoch=6_valid_loss=0.4770.ckpt

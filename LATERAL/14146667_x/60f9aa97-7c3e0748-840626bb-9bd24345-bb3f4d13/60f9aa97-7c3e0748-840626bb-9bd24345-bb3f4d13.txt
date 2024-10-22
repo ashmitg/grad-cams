@@ -1,0 +1,54 @@
+Unnamed: 0: 208
+subject_id_x: 14146667
+image_path: cxr-image-analysis/files/p14/p14146667/s55518483/60f9aa97-7c3e0748-840626bb-9bd24345-bb3f4d13.jpg
+dicom: 60f9aa97-7c3e0748-840626bb-9bd24345-bb3f4d13
+study_id: 55518483
+subject_id_y: 14146667
+hadm_id: 22826772
+Label_0_Logit: -1.8837621
+Label_0_Prob: 0.13195734
+Label_0: 0.0
+Label_1_Logit: -2.0572736
+Label_1_Prob: 0.11331949
+Label_1: 0.0
+Label_2_Logit: -3.161076
+Label_2_Prob: 0.040657062
+Label_2: 0.0
+Label_3_Logit: -0.34715283
+Label_3_Prob: 0.41407305
+Label_3: 0.0
+Label_4_Logit: -2.4288545
+Label_4_Prob: 0.0809987
+Label_4: 0.0
+Label_5_Logit: 1.7770864
+Label_5_Prob: 0.8553367
+Label_5: 1.0
+Correct_0: True
+Correct_1: True
+Correct_2: True
+Correct_3: True
+Correct_4: True
+Correct_5: True
+Total_Label: 1.0
+Total_Correct: 6
+gender: F
+admission_type_mapped: Observation
+admission_type: OBSERVATION ADMIT
+race: BLACK/AFRICAN AMERICAN
+discharge_location: HOME HEALTH CARE
+insurance: Medicare
+language: ENGLISH
+race_mapped: Black or African American
+ViewPosition: LATERAL
+anchor_age: 51
+hospital_expire_flag: 0
+AcquisitionDate: 21600125.0
+DetectorTemperature: 29.0
+ExposureTime: 31.0
+XRayTubeCurrent: 400.0
+Exposure: 12.0
+ExposureInuAs: 12400.0
+weight_kg: nan
+height_cm: nan
+bmi: nan
+model_grad_eval: j_CNN_Label_5_convnext_base.fb_in22k_ft_in1k_epoch=6_valid_loss=0.4770.ckpt
