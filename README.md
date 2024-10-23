@@ -8,7 +8,7 @@ This repository contains the analysis and results of a Grad-CAM study performed 
 
 - **Patients:** 70
 - **Total Images:** ~200
-- **Labels:** 5 (specific to the study)
+- **Labels:** 6 (specific to the study)
 
 ## Methodology
 
