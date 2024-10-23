@@ -52,8 +52,6 @@ Here are links to specific Grad-CAM images generated during the analysis:
 
 ## Conclusion
 
-The analysis revealed that the ConvNeXt models tend to emphasize the borders of the images significantly. This tendency suggests that the models may be relying on specific viewpoints as shortcuts for prediction, rather than learning more generalized features across the entire image. Such behavior indicates a potential area for further investigation to improve model robustness and accuracy.
+The analysis revealed that the ConvNeXt models tend to emphasize the borders of the images significantly. This tendency suggests that the models may be relying on specific viewpoints as shortcuts for prediction.
 
-## Future Work
 
-Future studies could explore techniques to enhance the models' understanding of internal image features, potentially reducing their reliance on image borders and viewpoints.
